@@ -15,6 +15,7 @@
 		3261B1D324C7E02A00A1B3BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3261B1D124C7E02A00A1B3BE /* LaunchScreen.storyboard */; };
 		3261B1DE24C7E02A00A1B3BE /* BruceSubBProjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3261B1DD24C7E02A00A1B3BE /* BruceSubBProjTests.swift */; };
 		3261B1E924C7E02A00A1B3BE /* BruceSubBProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3261B1E824C7E02A00A1B3BE /* BruceSubBProjUITests.swift */; };
+		32E32C5824C7EB8C00F374A5 /* SubBProjViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E32C5724C7EB8C00F374A5 /* SubBProjViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3261B1E424C7E02A00A1B3BE /* BruceSubBProjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BruceSubBProjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3261B1E824C7E02A00A1B3BE /* BruceSubBProjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BruceSubBProjUITests.swift; sourceTree = "<group>"; };
 		3261B1EA24C7E02A00A1B3BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32E32C5724C7EB8C00F374A5 /* SubBProjViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubBProjViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3261B1CF24C7E02A00A1B3BE /* Assets.xcassets */,
 				3261B1D124C7E02A00A1B3BE /* LaunchScreen.storyboard */,
 				3261B1D424C7E02A00A1B3BE /* Info.plist */,
+				32E32C5724C7EB8C00F374A5 /* SubBProjViewController.swift */,
 			);
 			path = BruceSubBProj;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3261B1CB24C7E02A00A1B3BE /* ViewController.swift in Sources */,
+				32E32C5824C7EB8C00F374A5 /* SubBProjViewController.swift in Sources */,
 				3261B1C724C7E02A00A1B3BE /* AppDelegate.swift in Sources */,
 				3261B1C924C7E02A00A1B3BE /* SceneDelegate.swift in Sources */,
 			);
